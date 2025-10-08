@@ -419,9 +419,10 @@ header.smaller.scroll-light .logo-main {
 }
 
 .logo-main {
-  width: 100px;
+  width: 200px;
   position: relative;
   left: 50px;
+  top: 10px;
 }
 
 header.smaller.scroll-light .logo-scroll {
